@@ -1,4 +1,4 @@
-# GitHub Users in Barcelona
+# GitHub Users in the city Barcelona
 
 This repository contains data about GitHub users in Barcelona with over 100 followers and their repositories.
 
