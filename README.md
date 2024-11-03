@@ -13,4 +13,5 @@ This repository contains data about GitHub users in Barcelona with over 100 foll
 - Data collected using GitHub API and scraped using the python.
 
 ## Observations
-- most watchers are for typescript and javascript.
+- Most watchers are for typescript and javascript.
+- 
