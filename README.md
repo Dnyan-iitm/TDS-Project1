@@ -14,4 +14,3 @@ This repository contains data about GitHub users in Barcelona with over 100 foll
 
 ## Observations
 - Most watchers are for typescript and javascript.
-- 
